@@ -1,0 +1,8 @@
+[package]
+authors = ["Johan Brinch <johan@pleo.io>"]
+edition = "2018"
+name = "card-cabal-10-20-30"
+version = "0.1.0"
+[dependencies]
+plotters = "*"
+rand = "*"
